@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot_ssmcrud" />
+        <module name="ssmcrud" />
         <module name="SpringBootHello" />
+        <module name="springboot_ssmcrud" />
         <module name="springboot_mybatis" />
         <module name="springboot_quick" />
       </profile>
@@ -19,8 +20,9 @@
       <module name="springboot_quick" target="1.8" />
       <module name="springboot_quick (1)" target="1.8" />
       <module name="springboot_ssmcrud" target="1.8" />
-      <module name="SpringBootHello" target="1.8" />
+      <module name="SpringBootHello" target="1.6" />
       <module name="SpringBootHelloWorld" target="1.6" />
+      <module name="ssmcrud" target="1.8" />
       <module name="ssmcrud_springboot" target="1.8" />
       <module name="SSMCRUD_SpringBoot" target="1.8" />
     </bytecodeTargetLevel>
@@ -34,6 +36,7 @@
       <module name="springboot_quick" options="-parameters" />
       <module name="springboot_quick (1)" options="-parameters" />
       <module name="springboot_ssmcrud" options="-parameters" />
+      <module name="ssmcrud" options="-parameters" />
       <module name="ssmcrud_springboot" options="-parameters" />
     </option>
   </component>
