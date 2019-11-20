@@ -1,0 +1,12 @@
+#person:
+#  name: 张三
+#  age: 18
+#  birth: 2001/1/1
+#  map: {k1: 1,k2: 2}
+#  list:
+#      - list
+#      - dog
+#      - duck
+#  dog:
+#    name: 小狗
+#    age: 2

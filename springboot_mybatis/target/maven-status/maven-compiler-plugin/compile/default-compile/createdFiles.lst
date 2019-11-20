@@ -1,0 +1,7 @@
+com\liaoxukai\springboot\Config\DruidConfig.class
+com\liaoxukai\springboot\Mapper\XmlConfigmapper.class
+com\liaoxukai\springboot\Mapper\Testmapper.class
+com\liaoxukai\springboot\Controller\Testcontro.class
+com\liaoxukai\springboot\Config\MvcConfig.class
+com\liaoxukai\springboot\Bean\user.class
+com\liaoxukai\springboot\SpringbootMybatisApplication.class
